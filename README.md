@@ -1,3 +1,11 @@
+#SUBMITTED BY:
+
+PREETISMITA RAY -CL2025010601871220
+PRAGYAN PARAMITA PADHI -CL20250106018809115 
+
+
+
+
 # Job Portal
 #### A desktop App,full implementation using oops and mysql and algorithms,that helps job seekers and job providers 
 
