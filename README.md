@@ -1,13 +1,7 @@
 # Job Portal
 #### A desktop App,full implementation using oops and mysql and algorithms,that helps job seekers and job providers 
 
-## To run this project:
-   * Clone this Project in your local system.
-   * install java(jdk) from official website
-   * Open the terminal from the cloned project folder,then run the following command 
-```bash-script
-java -jar ./Job-Portal.jar
-```
+
 
 ## Technologies
 Project is created with:
