@@ -35,14 +35,3 @@ A simple and user-friendly desktop-based **To-Do List application** built using 
 
 ---
 
-## 🛠 How to Run
-
-### Prerequisites:
-- Java JDK (8 or above)
-- Any Java IDE (Eclipse / IntelliJ / VS Code) or terminal with `javac` and `java`
-
-### Steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Java-ToDoList-GUI.git
-   cd Java-ToDoList-GUI
