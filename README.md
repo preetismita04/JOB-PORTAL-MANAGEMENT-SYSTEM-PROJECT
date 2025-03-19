@@ -8,42 +8,41 @@ PRAGYAN PARAMITA PADHI -CL20250106018809115
 
 
 
+# 🗂️ Java To-Do List GUI Application
 
-# Job Portal
-#### A desktop App,full implementation using oops and mysql and algorithms,that helps job seekers and job providers 
+A simple and user-friendly desktop-based **To-Do List application** built using **Java Swing**. It allows users to manage their tasks effectively by adding task details like description, deadline, priority, and category. Tasks can be marked as completed and are saved persistently in a text file.
+
+---
+
+## ✅ Features
+
+- ➕ Add tasks with:
+  - Task Description
+  - Deadline
+  - Priority (High / Medium / Low)
+  - Category (Work / Personal / Other)
+- ✔ Mark tasks as completed
+- ❌ Delete tasks
+- 💾 Tasks are saved to a local file (`tasks.txt`) for persistence
+- 📃 View tasks in a scrollable list with task status and details
+
+---
+
+## 📸 GUI Preview _(Optional - Add Screenshot Here)_
+
+> You can take a screenshot of your application and include it here:
 
 
+---
 
-## Technologies
-Project is created with:
-* Java SE 17.0. 2
-* JDBC 4.3
-* MYSQL 8.0
-* JavaFx 17
+## 🛠 How to Run
 
-## Project Status
-#### Fronted in  development, Backend tested and deployed.
+### Prerequisites:
+- Java JDK (8 or above)
+- Any Java IDE (Eclipse / IntelliJ / VS Code) or terminal with `javac` and `java`
 
-[Presentation](https://docs.google.com/presentation/d/1gx93ZL48HJPb45hzcXm7CFLSb5RX_va0W3lFH1QrvfQ/edit?usp=sharing)
-
-## class diagram
-![star uml](https://github.com/siva010928/Job-Portal/blob/main/class_diagram.jpg)
-
-## flow diagram
-![miro](https://github.com/siva010928/Job-Portal/blob/main/activity_flow_diagram.jpg)
-
-## database design
-![mysql](https://github.com/siva010928/Job-Portal/blob/main/db.png)
-## Features
-#### Job Seekers
-        * search,filter,view job details and apply to the job
-        * update profile
-        * post a review of a company
-#### Job Provider
-        * post/search/filter/edit a job
-        * join a company as a recruiter
-        * search,filter candidates and review their applications(hiring,rejecting)
-                  
-## REFERENCE
-#### [Indeed](https://in.indeed.com/?from=gnav-homepage)    [Naukri](https://www.naukri.com/mnjuser/homepage)
-
+### Steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Java-ToDoList-GUI.git
+   cd Java-ToDoList-GUI
